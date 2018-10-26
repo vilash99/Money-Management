@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Money Management</string>
+
+
+    <string name="transaction_type">Transaction Type</string>
+    <string name="transaction_date">Transaction Date</string>
+    <string name="choose_category">Choose Category</string>
+    <string name="add_money">Money</string>
+    <string name="transaction_comments">Transaction Comments</string>
+    <string name="button_save">Save</string>
+    <string name="button_edit">Edit</string>
+    <string name="button_clear">Clear</string>
+    <string name="save_dialog_message">Do you want to save this transaction?</string>
+    <string name="button_yes">Yes</string>
+    <string name="button_no">No</string>
+
+    <string-array name="months_name">
+        <item>January</item>
+        <item>February</item>
+        <item>March</item>
+        <item>April</item>
+        <item>May</item>
+        <item>June</item>
+        <item>July</item>
+        <item>August</item>
+        <item>September</item>
+        <item>October</item>
+        <item>November</item>
+        <item>December</item>
+    </string-array>
+
+    <string-array name="TransType">
+        <item>Credit</item>
+        <item>Debit</item>
+        <item>Reminder</item>
+        <item>All</item>
+    </string-array>
+
+</resources>

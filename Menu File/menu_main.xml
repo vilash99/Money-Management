@@ -1,0 +1,36 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.vilash.moneymanagement.MainScreen">
+
+    <item
+        android:id="@+id/miAddNew"
+        android:title="New Transaction">
+    </item>
+
+    <item
+        android:id="@+id/miStatical"
+        android:title="Statistical View">
+    </item>
+    <item
+        android:id="@+id/miDetail"
+        android:title="Detail View">
+    </item>
+
+    <item
+        android:id="@+id/miChangeYear"
+        android:title="Change Year">
+    </item>
+
+    <item
+        android:id="@+id/miBackupDB"
+        android:title="Backup Database">
+    </item>
+
+</menu>
+
+    <!-- android:icon="@drawable/ic_statistical" -->
+    <!-- android:icon="@drawable/ic_detail" -->
+    <!-- android:icon="@drawable/ic_changeyear" -->
+    <!-- app:showAsAction="ifRoom" -->
+    <!-- app:showAsAction="ifRoom|withText" -->
+    <!-- app:showAsAction="ifRoom|withText" -->
